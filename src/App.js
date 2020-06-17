@@ -12,7 +12,7 @@ function App () {
     return (
         <BrowserRouter>
             <div>
-                <h1>My App</h1>
+                <h1>My App 2</h1>
                 <Link to="/">Home</Link> - 
                 <Link to="/about">About</Link> - 
                 <Link to="/services">Services</Link> - 
